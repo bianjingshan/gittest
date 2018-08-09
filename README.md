@@ -5,3 +5,4 @@ add branch dev
 
 bianjs modify readme
 
+bianjs ..
